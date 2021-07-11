@@ -20,7 +20,8 @@ Moreover, this project highlights what people who are Data Scientists actually d
 * Sci-kit learn 0.24.2
 * Matplotlib 3.3.4
 * Seaborn 0.11.1
-USed Anaconda Distribution and Jupyter Notebooks for Python coding
+
+Used Anaconda Distribution and Jupyter Notebooks for Python coding
 
 **Project Motivation**
 ----
