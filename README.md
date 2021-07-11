@@ -34,7 +34,7 @@ This submission has 2 jupyter notebook files. The StackOverflow EDA file has the
 
 **Conclusion of the project**
 ----
-* Data Science is one of the most sought-after job, but it is one of the most difficult ones to break into
+* Data Science is one of the most sought-after jobs, but it is one of the most difficult ones to break into
 * Only 4% of the Respondents in the Stack Overflow survey are Data Scientists, which implies that there is huge scope in the industry and the market is far from oversaturation.
 * Upon Analysis, the average salary of Data Scientists is $61137 p.a. 20% of the Data Scientists have salaries higher than $100000 with some earning as high as $200000.
 * Being a successful Data Scientist is different than being just a Data Scientist. It’s not easy in the beginning. But after successfully obtaining all of the skills and experience required, Data Science can be one of the most rewarding jobs in the world.
