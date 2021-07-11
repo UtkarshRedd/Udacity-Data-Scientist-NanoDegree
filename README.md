@@ -1,9 +1,11 @@
 # Udacity-Data-Scientist-Nanodegree
+----
 **File1: StackOverflowEDA**
 **File2: Data Scientist prediction**
 **File3: survey_results_public.csv is the dataset used**
 
-**THE MEDIUM POST LINK IS HERE** https://utkarsh-lal.medium.com/data-science-as-a-career-whats-in-it-for-you-30c82c9b69
+**THE MEDIUM POST** 
+https://utkarsh-lal.medium.com/data-science-as-a-career-whats-in-it-for-you-30c82c9b69
 
 This project is a part of the Udacity Data scientist nanodgree term 2. The project is based on the StackOverflow 2017 dataset containing the responses of a survey. The dataset has been used to provide an analysis of what a career in Data Science is like, with respect to Job Satisfaction, Career Satisfaction, Salary, skills required, etc. 
 
@@ -12,4 +14,19 @@ Apart from the analysis, a Logistic Regression model has been trained to predict
 Moreover, this project highlights what people who are Data Scientists actually do. This project can also be molded to any other title like Web Developers, Mobile Developers etc to find out what it is that they do in real life. This information can prove to be very useful to beginners in a field of study and can highlight key areas for them.
 
 
+**INSTALLATIONS**
+----
+* Pandas 1.2.4
+* Sci-kit learn 0.24.2
+* Matplotlib 3.3.4
+* Seaborn 0.11.1
+USed Anaconda Distribution and Jupyter Notebooks for Python coding
+
+**Project Motivation**
+----
+I have been hearing all the hype about Data Science and how cool Data Scientists are, since I was in my first year of University, . I never really understood the real reason behind the hype, until my last year of Uni, when I started learning about Data Science and did a few courses. I took up Data Science electives in Uni and I got a Data Science oriented internship as well. It wasn't long before I got hooked on to it. As a result of the hype and the popularity of the concept, many of my friends and colleagues call themselves “Data Science enthusiasts”, but none of them are sure whether it’s the right career path to follow.
+I'm in my last year of University right now and I'm going to start my first job ever in about a month (which is also Data Science oriented). When I was going through the StackOverflow dataset, I was able to find information about developers from various fields of study including Data Science. So, I felt like I've got a chance to find the answer to my question, is Data Science just overhyped? Hence came the idea for this project.
+
+**File Descriptions**
+----
 This submission has 2 jupyter notebook files. The StackOverflow EDA file has the analysis of how Data Science is with respect to Job Satisfaction and other criteria. The Prediction notebook has the model which predicts if one can become a Data Scientist or not.
